@@ -9,7 +9,7 @@ lerna-debug.log*
 
 phonebook
 node_modules
-dist
+
 dist-ssr
 *.local
 .env
